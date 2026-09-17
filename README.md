@@ -28,7 +28,6 @@ I build clean, user-focused web applications with a strong emphasis on usability
 - JavaScript
 - TypeScript
 - React
-- Astro
 
 ### Backend & Tools
 - Node.js
