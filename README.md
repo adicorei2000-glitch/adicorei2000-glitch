@@ -1,60 +1,101 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/240452187?v=4" width="180" height="180" alt="Adi profile" />
+<img src="https://avatars.githubusercontent.com/u/240452187?v=4" width="180" height="180" alt="Adi profile avatar" />
 
 # Adi
 
-### Full-Stack Developer
+### Full-Stack Developer | Frontend Engineer | Problem Solver
 
 [![GitHub](https://img.shields.io/badge/GitHub-@adicorei2000--glitch-181717?style=for-the-badge&logo=github)](https://github.com/adicorei2000-glitch)
 
 </div>
 
-I design and build practical web experiences with a focus on clean code, usability, and modern interfaces.
+I build clean, user-focused web applications with a strong emphasis on usability, maintainability, and modern frontend experiences. I enjoy turning ideas into practical products and continuously improving my engineering skills.
 
-## About
+## Profile Highlights
 
-I’m a developer interested in frontend engineering, full-stack projects, and turning ideas into real-world products. I enjoy learning new technologies and building solutions that are both functional and polished.
+- Frontend and full-stack web development
+- Strong interest in responsive UI and modern UX
+- Focus on scalable, readable, production-ready code
+- Comfortable working across design, implementation, and debugging
+- Passionate about learning and building real-world applications
 
-## Stack
+## Technical Skills
 
-- HTML / CSS / JavaScript / TypeScript
-- React / Astro
-- Node.js / Python
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React
+- Astro
+
+### Backend & Tools
+- Node.js
+- Python
 - Git / GitHub
 - VS Code
+- REST API concepts
+
+### Core Strengths
+- Responsive web design
+- UI implementation
+- Problem solving and debugging
+- Clean architecture and maintainable code
+- Project planning and execution
 
 ## Featured Projects
 
-- Wild-heaven — TypeScript project for browsing and reserving unique homes.
-  https://github.com/adicorei2000-glitch/Wild-heaven
+### Wild-heaven
+Modern property booking-style application for exploring and reserving homes in various locations.
 
-- snake_game — Classic Snake game built as a lightweight web project.
-  https://github.com/adicorei2000-glitch/snake_game
+- Stack: TypeScript
+- Repo: https://github.com/adicorei2000-glitch/Wild-heaven
 
-- fullstack- — Practical full-stack development project.
-  https://github.com/adicorei2000-glitch/fullstack-
+### snake_game
+Classic Snake game built as a lightweight interactive web project.
 
-- cbnu_image_processing — Python-based image processing project.
-  https://github.com/adicorei2000-glitch/cbnu_image_processing
+- Stack: HTML
+- Repo: https://github.com/adicorei2000-glitch/snake_game
 
-- unfulled-react — React-based front-end project.
-  https://github.com/adicorei2000-glitch/unfulled-react
+### fullstack-
+Practical full-stack project focused on building real-world web functionality.
+
+- Stack: JavaScript
+- Repo: https://github.com/adicorei2000-glitch/fullstack-
+
+### cbnu_image_processing
+Python-based image processing project exploring visual data manipulation.
+
+- Stack: Python
+- Repo: https://github.com/adicorei2000-glitch/cbnu_image_processing
+
+### unfulled-react
+React-based frontend project focused on interface development and component patterns.
+
+- Stack: JavaScript
+- Repo: https://github.com/adicorei2000-glitch/unfulled-react
 
 ## GitHub Stats
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adicorei2000-glitch&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adicorei2000-glitch&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adicorei2000-glitch&layout=compact&theme=default&hide_border=true)
 
 </div>
 
 ## Current Focus
 
-- Building thoughtful user experiences
-- Improving frontend and TypeScript skills
-- Exploring scalable full-stack architecture
-- Creating meaningful, practical projects
+- Building polished, user-centered web experiences
+- Improving frontend architecture and TypeScript workflow
+- Exploring scalable full-stack solutions
+- Creating practical products with a strong user experience
+
+## Open to Opportunities
+
+I’m open to software development opportunities, collaborations, and projects where I can contribute value through code, design thinking, and problem solving.
 
 ## Connect
 
